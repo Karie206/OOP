@@ -1,4 +1,4 @@
-# 📦 Quản Lý Hợp Đồng Lao Động | Labor Contract Management System
+# 📦 Quản Lý Hợp Đồng Lao Động (Labor Constract)
 
 <p>
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
